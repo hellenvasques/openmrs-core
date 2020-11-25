@@ -1160,7 +1160,7 @@
 		<sonar.issuesReport.lightModeOnly>true</sonar.issuesReport.lightModeOnly>
 		<sonar.issuesReport.console.enable>true</sonar.issuesReport.console.enable>
 		<sonar.analysis.mode>publish</sonar.analysis.mode>
-        <sonar.organization>hellenvasques</sonar.organization>
+        
 
 
 		<argLine>-Duser.language=en -Duser.region=US -Xmx2g ${customArgLineForTesting} -Djava.locale.providers=COMPAT</argLine>
